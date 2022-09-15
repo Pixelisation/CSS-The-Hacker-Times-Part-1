@@ -58,3 +58,9 @@ h4{
 #drops{
     margin: 1em;
 }
+
+nav{
+    position: sticky;
+    top: 5px;
+    background-color: white;
+}
